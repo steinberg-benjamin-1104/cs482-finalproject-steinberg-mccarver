@@ -1,0 +1,12 @@
+Accuracy: 0.8732
+Classification Report:
+                  precision    recall  f1-score   support
+
+     RegularDoor       0.91      0.70      0.79       934
+          Handle       0.84      0.47      0.60       958
+     CabinetDoor       0.87      0.98      0.92      6503
+RefrigeratorDoor       0.88      0.35      0.50       307
+
+        accuracy                           0.87      8702
+       macro avg       0.87      0.62      0.70      8702
+    weighted avg       0.87      0.87      0.86      8702
